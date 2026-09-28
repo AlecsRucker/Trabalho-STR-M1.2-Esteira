@@ -1,0 +1,7 @@
+"-specs=C:/Users/alecs/Documents/PlatformIO/Projects/STR_Esteira/STR_M1_2/build/bootloader/specs/picolibc.specs"
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+-fno-rtti

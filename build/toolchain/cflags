@@ -1,0 +1,6 @@
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=C:/Users/alecs/Documents/PlatformIO/Projects/STR_Esteira/STR_M1_2/build/specs/picolibc.specs"

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/alecs/Documents/PlatformIO/Projects/STR_Esteira/STR_M1_2/build/CMakeFiles/bootloader
+C:/Users/alecs/Documents/PlatformIO/Projects/STR_Esteira/STR_M1_2/build/CMakeFiles/bootloader.rule
+C:/Users/alecs/Documents/PlatformIO/Projects/STR_Esteira/STR_M1_2/build/CMakeFiles/bootloader-complete.rule
+C:/Users/alecs/Documents/PlatformIO/Projects/STR_Esteira/STR_M1_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/alecs/Documents/PlatformIO/Projects/STR_Esteira/STR_M1_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/alecs/Documents/PlatformIO/Projects/STR_Esteira/STR_M1_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/alecs/Documents/PlatformIO/Projects/STR_Esteira/STR_M1_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/alecs/Documents/PlatformIO/Projects/STR_Esteira/STR_M1_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/alecs/Documents/PlatformIO/Projects/STR_Esteira/STR_M1_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/alecs/Documents/PlatformIO/Projects/STR_Esteira/STR_M1_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
